@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "top.elgong.redis.RedisConfig",
+      "sourceType": "top.elgong.redis.RedisConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
